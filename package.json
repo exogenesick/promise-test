@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-promise-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Krzysztof Pająk <kpajak@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.4.1"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5",
+    "sinon": "^1.15.4"
+  }
+}
